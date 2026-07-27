@@ -54,7 +54,17 @@ AI • LLMs • Blockchain • Web3
 
 ## 📊 GitHub Stats
 ## 📫 Connect
-
-LinkedIn - 
-X - https://x.com/Inbond10
-Instagram - https://www.instagram.com/_shahi072/
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-shahi-82807b381/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Inbond10" target="_blank">
+    <img src="<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/44dd3c50-b632-4ca1-84bb-b255af42c73c" alt="X" />
+  </a>
+  <a href="(https://www.instagram.com/_shahi072/)" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="mailto:piyushshahi00100@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+  </a>
+</p>
