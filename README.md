@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Shahi</h1>
+<h1 align="center">Hi, I'm Piyush Shahi</h1>
 <h3 align="center">B.Tech Student | Web Developer | AI & Web3 Enthusiast</h3>
 
 <p align="center">
