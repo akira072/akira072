@@ -61,7 +61,7 @@ AI • LLMs • Blockchain • Web3 • Automation
   <a href="https://x.com/Inbond10" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X" />
   </a>
-  <a href="(https://www.instagram.com/_shahi072/)" target="_blank">
+  <a href="https://www.instagram.com/_shahi072" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="mailto:piyushshahi00100@gmail.com" target="_blank">
