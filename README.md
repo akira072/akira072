@@ -21,22 +21,22 @@
 ## 🛠 Tech Stack
 
 ### Languages
-C • Python • JavaScript
+C • Python • JavaScript • React.js • NestJs
 
 ### Frontend
 HTML • CSS • JavaScript
 
 ### Backend
-Flask • Python
+Flask • Python • JavaScript
 
 ### Database
-MySQL
+MySQL • MongoDB
 
 ### Tools
-Git • GitHub • VS Code • Figma
+Git • GitHub • VS Code • Figma • Canva
 
 ### Currently Learning
-AI • LLMs • Blockchain • Web3
+AI • LLMs • Blockchain • Web3 • Automation
 
 ---
 
@@ -54,12 +54,12 @@ AI • LLMs • Blockchain • Web3
 
 ## 📊 GitHub Stats
 ## 📫 Connect
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/piyush-shahi-82807b381/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Inbond10" target="_blank">
-    <img src="<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/44dd3c50-b632-4ca1-84bb-b255af42c73c" alt="X" />
+    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X" />
   </a>
   <a href="(https://www.instagram.com/_shahi072/)" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
