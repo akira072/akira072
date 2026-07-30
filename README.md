@@ -68,3 +68,9 @@ AI • LLMs • Blockchain • Web3 • Automation
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akira072/akira072/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akira072/akira072/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
+</p>
