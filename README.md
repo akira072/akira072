@@ -69,8 +69,18 @@ AI • LLMs • Blockchain • Web3 • Automation
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akira072/akira072/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akira072/akira072/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/akira072/akira072/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/akira072/akira072/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/akira072/akira072/output/pacman-contribution-graph.svg"
+    />
+  </picture>
 </p>
