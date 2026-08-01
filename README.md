@@ -53,21 +53,6 @@ AI • LLMs • Blockchain • Web3 • Automation
 ---
 
 ## 📊 GitHub Stats
-## 📫 Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/piyush-shahi-82807b381/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Inbond10" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/_shahi072" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
-  <a href="mailto:piyushshahi00100@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
-  </a>
-</p>
 <p align="center">
   <picture>
     <source
@@ -83,4 +68,20 @@ AI • LLMs • Blockchain • Web3 • Automation
       src="https://raw.githubusercontent.com/akira072/akira072/output/pacman-contribution-graph.svg"
     />
   </picture>
+</p>
+
+## 📫 Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/piyush-shahi-82807b381/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Inbond10" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/_shahi072" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="mailto:piyushshahi00100@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+  </a>
 </p>
