@@ -77,7 +77,7 @@ AI • LLMs • Blockchain • Web3 • Automation
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Inbond10" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X" />
+    <img src="https://img.icons8.com/fluency/50/twitterx.png" alt="X" />
   </a>
   <a href="https://www.instagram.com/_shahi072" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
